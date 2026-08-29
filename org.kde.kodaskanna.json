@@ -53,8 +53,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/unstable/kodaskanna/0.2.2/src/kodaskanna-0.2.2.tar.xz",
-                    "sha256": "d32e42297ab1a81a96b68683d1d5ff9034036e29d590c482dce2619eea687a80",
+                    "url": "https://download.kde.org/unstable/kodaskanna/0.2.3/src/kodaskanna-0.2.3.tar.xz",
+                    "sha256": "fcc67d03d233ef987d966907746f04641083a87d42d6ce78d06af95ccd8903cd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 375753,
