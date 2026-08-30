@@ -61,10 +61,6 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/unstable/kodaskanna/$version/src/kodaskanna-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "scalable.patch"
                 }
             ]
         }
