@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/zxing-cpp/zxing-cpp/archive/v2.3.0.tar.gz",
-                    "sha256": "64e4139103fdbc57752698ee15b5f0b0f7af9a0331ecbdc492047e0772c417ba",
+                    "url": "https://github.com/zxing-cpp/zxing-cpp/archive/v3.2.0.tar.gz",
+                    "sha256": "0cf0921252cfdff4efacdeb2825429db3ca92b3aa5876c757c7495bb312768b6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 101246,
